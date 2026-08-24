@@ -44,6 +44,23 @@ Capital hires scientists because it needs knowledge that it cannot produce or in
 
 **Possible homes:** Chapter 4, *Building Resilient Institutions*; Chapter 5, *Communicating Under Pressure*; or Appendix B, *People and Fields*.
 
+## Rent Collection, Human Subjects, and the Last Fields to Automate
+
+Fields that require people as research inputs may be both the most institutionally cumbersome and the last to automate. Human-subjects research depends on recruitment, consent, trust, access, intervention, and observation in the real world. These requirements create bottlenecks around which institutions and intermediaries can collect rents. They also leave a stubborn residue of human labor after AI has automated literature review, analysis, simulation, and writing.
+
+**Why it matters:** The fields that are hardest to automate may not be the ones with the most sophisticated theories or instruments. They may simply be the ones whose essential inputs remain people. This could produce an inversion in which technically advanced fields automate quickly while noisy, expensive, and organizationally difficult human-facing fields retain more labor and institutional power.
+
+**Questions and examples to pursue:**
+
+- Who controls access to human subjects—universities, hospitals, platforms, schools, governments, panel providers, or community organizations—and what rents can that control support?
+- Which costs reflect necessary protections for subjects, and which reflect institutional extraction, monopoly access, or administrative self-preservation?
+- Do clinical trials, field experiments, surveys, interviews, ethnography, education research, and public-health interventions share a common automation bottleneck?
+- Will AI automate analysis long before it can automate recruitment, consent, trust, treatment, and the measurement of real outcomes?
+- Can synthetic data or simulated subjects substitute for people, and where would that substitution become scientifically circular or politically dangerous?
+- Will the last fields to automate become relatively more expensive, lower status, more politically exposed, or more valuable?
+
+**Possible homes:** Chapter 3, *Science in the Age of AI*; Appendix B, *People and Fields*; Appendix C, *AI and Capital Investment*; or Appendix A, *Money*.
+
 <!--
 Template for a new idea:
 
