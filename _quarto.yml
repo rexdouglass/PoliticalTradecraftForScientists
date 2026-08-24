@@ -30,7 +30,7 @@ book:
 
 format:
   html:
-    theme: cosmo
+    theme: litera
     toc: false
     code-copy: true
 
