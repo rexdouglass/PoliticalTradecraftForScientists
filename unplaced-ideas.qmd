@@ -61,6 +61,23 @@ Fields that require people as research inputs may be both the most institutional
 
 **Possible homes:** Chapter 3, *Science in the Age of AI*; Appendix B, *People and Fields*; Appendix C, *AI and Capital Investment*; or Appendix A, *Money*.
 
+## Shallow Proxies for Quality
+
+When scientific quality is difficult or expensive to judge directly, institutions substitute shallow proxies: credentials, institutional affiliation, journal prestige, citation counts, grant totals, statistical thresholds, methodological badges, polished presentation, or conformity to an expected format. These signals can contain information, but they are easier to observe—and often easier to game—than the underlying quality they are meant to represent.
+
+**Why it matters:** Science must allocate attention, money, jobs, and authority under severe uncertainty. Proxies make those decisions administratively possible, but once a proxy becomes a target it can displace the quality it was intended to measure. AI may accelerate this problem by making polish, volume, citation-like language, and procedural conformity extremely cheap to produce.
+
+**Questions and examples to pursue:**
+
+- Which proxies are used for discovery, hiring, promotion, funding, publication, and public credibility?
+- When does a useful signal become a target, a ritual, or a barrier to unfamiliar work?
+- Who benefits from a proxy, and who bears the cost of false positives and false negatives?
+- Which dimensions of scientific quality remain illegible to administrators, funders, reviewers, and the public?
+- Can multiple imperfect signals discipline one another, or do they merely create a thicker performance of quality?
+- How does AI change the relative cost of producing the appearance of quality versus quality itself?
+
+**Possible homes:** Chapter 4, *Building Resilient Institutions*; Appendix A, *Money*; Appendix B, *People and Fields*; or Chapter 3, *Science in the Age of AI*.
+
 <!--
 Template for a new idea:
 
