@@ -11,6 +11,39 @@ For each idea, capture:
 
 When an idea finds a permanent home, move the material rather than duplicating it here.
 
+## Science as a Principal–Agent Problem
+
+Capital hires scientists because it needs knowledge that it cannot produce or independently verify. The scientist is therefore an agent whose expertise is valuable precisely because the principal—the firm, funder, investor, administrator, or state—cannot fully check the scientist's work. This creates problems of asymmetric information, monitoring, goal divergence, and trust.
+
+**Why it matters:** Scientific autonomy is not merely a professional privilege. It is partly a practical response to the inability of capital and management to specify, monitor, and evaluate frontier knowledge production. Attempts to eliminate that autonomy can destroy the capacity the principal intended to purchase.
+
+**Evidence or examples to pursue:**
+
+- industrial research laboratories and their relationship to corporate management;
+- grantmaking, peer review, and delegated judgment;
+- managerial metrics used as substitutes for substantive evaluation;
+- research integrity, fraud, and the limits of internal monitoring;
+- AI laboratories, where unusually large capital investments meet highly specialized knowledge; and
+- cases in which principals successfully or unsuccessfully aligned scientific work with organizational goals.
+
+**Possible homes:** Appendix A, *Money*; Chapter 4, *Building Resilient Institutions*; or Appendix C, *AI and Capital Investment*.
+
+## Fascist Tourists
+
+*Fascist tourists* is a provisional term for outsiders, generalists, or lower-tier practitioners who enter a scientific domain and impose rigid, surface-level rules on more capable scientists. They police visible signs of correctness—approved procedures, formats, checklists, or methodological rituals—without being able to judge whether those rules matter to the actual scientific problem. The result is cargo-cult rigor: strictness about legible form without corresponding understanding of substance.
+
+**Why it matters:** When institutions cannot directly evaluate scientific quality, procedural conformity can become a substitute for judgment. This may protect institutions from obvious failure, but it can also allow people with less substantive competence to constrain people with more, regardless of the importance or relevance of the rule being enforced.
+
+**Questions and examples to pursue:**
+
+- Which scientific rules protect real epistemic values, and which persist mainly because they are easy to audit?
+- When do checklists, reporting standards, preregistration, or standardized methods improve work, and when do they become ritualized obstacles?
+- How do bureaucracies reward the enforcement of visible compliance over difficult substantive judgment?
+- Does this pattern become more common when managers cannot distinguish excellent science from merely legible science?
+- How should institutions prevent arbitrary procedural policing without treating scientific prestige as an exemption from legitimate scrutiny?
+
+**Possible homes:** Chapter 4, *Building Resilient Institutions*; Chapter 5, *Communicating Under Pressure*; or Appendix B, *People and Fields*.
+
 <!--
 Template for a new idea:
 
@@ -24,6 +57,3 @@ State the idea or question.
 
 **Possible homes:**
 -->
-
-> No ideas are parked here yet.
-
