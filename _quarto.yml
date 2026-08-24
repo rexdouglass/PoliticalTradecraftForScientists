@@ -1,0 +1,34 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Political Trade Craft for Scientists"
+  subtitle: "How Science Can Survive Populism and AI"
+  author: "Rew W. Douglass"
+  site-url: https://rexdouglass.github.io/PoliticalTradecraftForScientists/
+  repo-url: https://github.com/rexdouglass/PoliticalTradecraftForScientists
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - part: "The New Political Environment"
+      chapters:
+        - populism.qmd
+        - artificial-intelligence.qmd
+    - part: "The Scientist's Craft"
+      chapters:
+        - institutions.qmd
+        - communication.qmd
+        - coalitions.qmd
+    - conclusion.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: true
+
+execute:
+  freeze: auto
+
