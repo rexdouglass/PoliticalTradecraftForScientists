@@ -9,6 +9,11 @@ book:
   site-url: https://rexdouglass.github.io/PoliticalTradecraftForScientists/
   repo-url: https://github.com/rexdouglass/PoliticalTradecraftForScientists
   repo-actions: [edit, issue]
+  sidebar:
+    style: docked
+    background: light
+    search: true
+    collapse-level: 2
   chapters:
     - index.qmd
     - introduction.qmd
@@ -26,7 +31,7 @@ book:
 format:
   html:
     theme: cosmo
-    toc: true
+    toc: false
     code-copy: true
 
 execute:
