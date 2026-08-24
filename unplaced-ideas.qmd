@@ -1,0 +1,29 @@
+# Ideas in Search of a Home
+
+This appendix is a temporary holding place for ideas that belong in the book but do not yet have a settled location. Each idea should begin as its own second-level section. As the structure develops, ideas can be expanded, combined, or moved into the chapters and appendices where they belong.
+
+For each idea, capture:
+
+- the claim or question in one or two sentences;
+- why it matters to the book;
+- evidence, examples, or cases worth pursuing; and
+- one or more possible destinations in the manuscript.
+
+When an idea finds a permanent home, move the material rather than duplicating it here.
+
+<!--
+Template for a new idea:
+
+## Short Working Title
+
+State the idea or question.
+
+**Why it matters:**
+
+**Evidence or examples:**
+
+**Possible homes:**
+-->
+
+> No ideas are parked here yet.
+

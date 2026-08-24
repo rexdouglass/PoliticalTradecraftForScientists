@@ -32,6 +32,7 @@ book:
     - people-and-fields.qmd
     - ai-capital-investment.qmd
     - voter-beliefs.qmd
+    - unplaced-ideas.qmd
 
 format:
   html:
