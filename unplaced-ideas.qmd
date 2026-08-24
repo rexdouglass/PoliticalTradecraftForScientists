@@ -78,6 +78,25 @@ When scientific quality is difficult or expensive to judge directly, institution
 
 **Possible homes:** Chapter 4, *Building Resilient Institutions*; Appendix A, *Money*; Appendix B, *People and Fields*; or Chapter 3, *Science in the Age of AI*.
 
+## Neither Side Is Your Friend: Cheerleaders and Crazies
+
+Scientists should not mistake hostility from one political coalition for epistemic reliability in the other. The most visible opponents of science may traffic in conspiracy, denial, or open institutional attack. But many self-described supporters treat science as a partisan symbol rather than a method. Democratic support for science can coexist with superstition, weak scientific literacy, motivated reasoning, and shallow deference to whatever carries the approved expert label.
+
+*Cheerleaders and crazies* is provisional shorthand for two different hazards. Crazies attack scientific institutions or replace evidence with conspiratorial explanation. Cheerleaders praise *science* in the abstract, overstate convenient findings, weaponize the phrase “science says,” and expect scientists to validate coalition goals. Neither posture guarantees support for scientific autonomy, uncertainty, correction, or inconvenient results.
+
+**Why it matters:** Scientists can become politically dependent on supporters who value the authority of science more than its disciplines. Cheerleading may feel safer than hostility, but it can reward overclaiming, suppress internal criticism, and convert scientific credibility into a partisan asset. When findings change or cease to serve the coalition, symbolic support may prove brittle.
+
+**Questions and examples to pursue:**
+
+- How much expressed trust in science reflects scientific understanding, generalized institutional trust, partisan identity, or opposition to another party?
+- Which superstitious, conspiratorial, or unsupported beliefs coexist with nominally pro-science political identities?
+- When do supporters tolerate uncertainty, failed replication, dissent, and findings that cut against their policy preferences?
+- How do slogans such as “believe science” obscure the conditional, adversarial, and self-correcting character of scientific practice?
+- What forms of coalition-building protect science without making it intellectually subordinate to a coalition?
+- Where are the asymmetries between political camps, and where would a claim of symmetry become lazy or empirically false?
+
+**Possible homes:** Chapter 2, *Science in a Populist Age*; Chapter 5, *Communicating Under Pressure*; Chapter 6, *Building Coalitions for Science*; or Appendix D, *Voter Beliefs and Attitudes towards Science*.
+
 <!--
 Template for a new idea:
 
