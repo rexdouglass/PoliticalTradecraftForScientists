@@ -27,6 +27,11 @@ book:
         - communication.qmd
         - coalitions.qmd
     - conclusion.qmd
+  appendices:
+    - money.qmd
+    - people-and-fields.qmd
+    - ai-capital-investment.qmd
+    - voter-beliefs.qmd
 
 format:
   html:

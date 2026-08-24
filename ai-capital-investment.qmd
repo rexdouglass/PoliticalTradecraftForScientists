@@ -1,0 +1,33 @@
+# AI and Capital Investment
+
+Artificial intelligence is not only a technical development. It is also a capital-intensive industrial project built through concentrated investment in computing, energy, data, infrastructure, and specialized labor.
+
+## What AI Investment Buys
+
+- Chips, data centers, networks, and energy
+- Data, models, and research talent
+- Products, distribution, and market access
+
+## Who Finances AI
+
+- Major technology firms
+- Venture capital and private markets
+- Public markets and debt
+- Governments, sovereign funds, and industrial policy
+
+## Concentration and Dependence
+
+- Scale advantages and barriers to entry
+- Scientific dependence on private infrastructure
+- Public subsidies and private control
+- Geographic and geopolitical concentration
+
+## Political Consequences
+
+- How investment shapes research priorities
+- The race narrative and pressure for rapid deployment
+- Accountability for systemic risks
+- Alternatives for public and scientific infrastructure
+
+> This appendix is under development.
+

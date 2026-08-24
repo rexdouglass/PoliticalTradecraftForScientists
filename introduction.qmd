@@ -4,5 +4,16 @@ Science does not operate outside politics. Its authority, resources, institution
 
 This book asks what scientists should know—and what they should learn to do—when expertise is contested, institutions are under pressure, and artificial intelligence changes both the production of knowledge and the information environment around it.
 
-> This chapter is under development.
+## Who Counts as a Scientist?
 
+This section will define the people and institutions included when the book refers to *scientists*, while attending to differences among disciplines, professions, sectors, and career stages.
+
+## What Is Populism?
+
+This section will distinguish populism from adjacent ideas such as popular democracy, anti-elitism, authoritarianism, nationalism, and ordinary distrust of institutions.
+
+## What Is Artificial Intelligence?
+
+This section will establish a useful working definition of artificial intelligence and separate the technology itself from the firms, capital, infrastructure, and political claims surrounding it.
+
+> This chapter is under development.

@@ -1,0 +1,40 @@
+# Voter Beliefs and Attitudes towards Science
+
+Public opinion about science is not a single attitude. Voters can support science in the abstract while distrusting particular institutions, fields, experts, methods, or policy applications.
+
+## What Voters Believe about Science
+
+- General trust in science and scientists
+- Beliefs about competence, honesty, and shared values
+- Expectations about certainty, disagreement, and error
+- Perceptions of scientific consensus
+
+## Sources of Variation
+
+- Party, ideology, and political identity
+- Religion, education, class, race, age, and geography
+- Differences across scientific fields and policy issues
+- Personal experience and institutional contact
+
+## Science as a Political Identity
+
+- Elite cues and partisan sorting
+- Cultural affinity and social distance
+- When scientific claims become symbols of group conflict
+- The difference between persuasion and identity defense
+
+## Measuring Public Attitudes
+
+- Survey wording and question order
+- Abstract trust versus issue-specific judgments
+- Stated beliefs versus behavior
+- Trends, events, and the limits of snapshot polling
+
+## Implications for Political Tradecraft
+
+- Identifying persuadable, supportive, and hostile audiences
+- Building trust without overstating certainty
+- Choosing credible messengers and institutions
+- Distinguishing disagreement from durable opposition
+
+> This appendix is under development.
