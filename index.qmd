@@ -1,4 +1,4 @@
-# Political Trade Craft for Scientists {.unnumbered}
+# Political Tradecraft for Scientists {.unnumbered}
 
 ## How Science Can Survive Populism and AI {.unnumbered}
 
@@ -7,4 +7,3 @@
 This book is being developed live and in public. It is an inquiry into the political skills scientists and scientific institutions need to remain useful, trusted, and resilient in an age shaped by populism and artificial intelligence.
 
 The text is a work in progress. Arguments, structure, and examples will evolve as the book develops.
-

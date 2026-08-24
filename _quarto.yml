@@ -3,7 +3,7 @@ project:
   output-dir: _book
 
 book:
-  title: "Political Trade Craft for Scientists"
+  title: "Political Tradecraft for Scientists"
   subtitle: "How Science Can Survive Populism and AI"
   author: "Rew W. Douglass"
   site-url: https://rexdouglass.github.io/PoliticalTradecraftForScientists/
@@ -31,4 +31,3 @@ format:
 
 execute:
   freeze: auto
-

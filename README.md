@@ -1,4 +1,4 @@
-# Political Trade Craft for Scientists
+# Political Tradecraft for Scientists
 
 **How Science Can Survive Populism and AI**  
 by Rew W. Douglass
@@ -18,4 +18,3 @@ quarto preview
 ```
 
 Every push to `main` automatically renders and deploys the book to GitHub Pages.
-
