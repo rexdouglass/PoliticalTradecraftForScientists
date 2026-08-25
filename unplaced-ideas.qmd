@@ -141,6 +141,8 @@ The *fascist tourist* variation in @sec-fascist-tourists treats the accountabili
 
 Possible moves include complaint shopping across institutions, strategic misconduct allegations, expansive records requests, threats of litigation, demands directed at employers or funders, platform reports, donor pressure, jurisdiction shopping, and the serial repackaging of an allegation for new audiences. Each mechanism may have a legitimate purpose. The game consists of combining them asymmetrically: the attacker selects cheap moves while the target and the target's institution must pay the cost of answering every move.
 
+Side audiences reduce the evidentiary burden further. A campaign need not persuade a common public if it can find a smaller audience already disposed to accept the story and capable of imposing costs. See @sec-side-audiences.
+
 **Lawfare as a scientific meta-game:**
 
 Lawfare moves the contest from the truth of a claim to the target's ability to survive process. A complaint need not prevail to consume time, money, attention, insurance, legal counsel, institutional goodwill, and emotional capacity. Fragmented actors can coordinate effects without accepting collective responsibility, while every response by the target creates new statements and discrepancies that can become material for the next round.
@@ -158,6 +160,41 @@ The central problem is not that lawsuits, complaints, investigations, or records
 - What institutional designs align winning the game more closely with producing reliable knowledge and correcting real wrongdoing?
 
 **Possible homes:** Chapter 3, *Science in the Age of AI*; Chapter 4, *Building Resilient Institutions*; Chapter 5, *Communicating Under Pressure*; or Chapter 6, *Building Coalitions for Science*.
+
+## Side Audiences, Self-Selection, and Prior-Compatible Stories {#sec-side-audiences}
+
+Fragmented media make it possible to find an audience rather than persuade one. A story does not need enough evidence to convince readers with diverse priors. It needs to reach people whose existing beliefs make the story plausible, emotionally useful, or politically actionable. Those readers then self-select into becoming its audience.
+
+In Bayesian terms, a weak signal can produce confident belief when it reaches people with sufficiently strong priors. The storyteller can therefore optimize audience selection instead of improving the likelihood value of the evidence. Apparent persuasiveness becomes endogenous: the people who encounter, share, subscribe to, or act on the story are disproportionately those for whom it already fits.
+
+**Side messaging:**
+
+The same campaign can maintain different messages for different audiences. A public-facing version may be cautious and procedural; a newsletter version accusatory; a donor version urgent; a legal version narrowly actionable; and a social-media version memetic or cruel. No single audience sees the whole campaign, and each message can be defended as appropriate to its local context.
+
+Side messaging provides:
+
+- audience-specific evidentiary standards and emotional cues;
+- plausible deniability about the campaign's strongest implications;
+- separation between respectable messengers and inflammatory ones;
+- repeated opportunities to test which framing recruits attention;
+- insulation from correction issued in another venue; and
+- the appearance of independent convergence when related claims return from different channels.
+
+**Why small audiences can be enough:**
+
+The relevant audience may not be the public or even the scientific field. It may be one editor, employer, funder, donor, lawyer, regulator, administrator, or platform moderator. A story can fail as mass persuasion and succeed as targeted activation if a small audience controls a consequential veto point. This changes the objective from establishing consensus to locating someone with both compatible priors and institutional leverage.
+
+**Questions and examples to pursue:**
+
+- How do newsletters, podcasts, group chats, niche publications, and social platforms help stories locate prior-compatible audiences?
+- When does audience self-selection masquerade as broad evidentiary agreement?
+- How are different versions of a claim coordinated while remaining formally separate?
+- Which side audiences possess veto power over employment, funding, publication, reputation, or legal exposure?
+- Why do corrections fail when they do not travel through the same trusted side channels as the original claim?
+- How do recommendation systems and AI reduce the cost of discovering receptive audiences and tailoring messages to them?
+- What would a scientific institution need to monitor in order to see the distributed campaign rather than only the individual message addressed to it?
+
+**Possible homes:** Chapter 2, *Science in a Populist Age*; Chapter 3, *Science in the Age of AI*; Chapter 5, *Communicating Under Pressure*; Chapter 6, *Building Coalitions for Science*; or Appendix D, *Voter Beliefs and Attitudes towards Science*.
 
 <!--
 Template for a new idea:
