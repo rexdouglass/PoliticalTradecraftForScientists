@@ -28,7 +28,7 @@ Capital hires scientists because it needs knowledge that it cannot produce or in
 
 **Possible homes:** Appendix A, *Money*; Chapter 4, *Building Resilient Institutions*; or Appendix C, *AI and Capital Investment*.
 
-## Fascist Tourists
+## Fascist Tourists {#sec-fascist-tourists}
 
 *Fascist tourists* is a provisional term for outsiders, generalists, or lower-tier practitioners who enter a scientific domain and impose rigid, surface-level rules on more capable scientists. They police visible signs of correctness—approved procedures, formats, checklists, or methodological rituals—without being able to judge whether those rules matter to the actual scientific problem. The result is cargo-cult rigor: strictness about legible form without corresponding understanding of substance.
 
@@ -62,6 +62,8 @@ The *fascist tourist* edge case is a person who claims the protections and autho
 - What kind of inquiry should follow a death without presuming either causation or innocence on the part of the surrounding institutions and media ecosystem?
 - How should legitimate investigation continue without turning one allegedly undeserving Black academic at a time into a public proxy battle over race and institutional merit?
 
+This case is one instance of the wider shift from gaming scientific institutions to gaming the legal, administrative, and media systems surrounding scientists. See @sec-gamification.
+
 **Possible homes:** Chapter 4, *Building Resilient Institutions*; Chapter 5, *Communicating Under Pressure*; or Appendix B, *People and Fields*.
 
 ## Rent Collection, Human Subjects, and the Last Fields to Automate
@@ -81,7 +83,7 @@ Fields that require people as research inputs may be both the most institutional
 
 **Possible homes:** Chapter 3, *Science in the Age of AI*; Appendix B, *People and Fields*; Appendix C, *AI and Capital Investment*; or Appendix A, *Money*.
 
-## Shallow Proxies for Quality
+## Shallow Proxies for Quality {#sec-quality-proxies}
 
 When scientific quality is difficult or expensive to judge directly, institutions substitute shallow proxies: credentials, institutional affiliation, journal prestige, citation counts, grant totals, statistical thresholds, methodological badges, polished presentation, or conformity to an expected format. These signals can contain information, but they are easier to observe—and often easier to game—than the underlying quality they are meant to represent.
 
@@ -116,6 +118,46 @@ Scientists should not mistake hostility from one political coalition for epistem
 - Where are the asymmetries between political camps, and where would a claim of symmetry become lazy or empirically false?
 
 **Possible homes:** Chapter 2, *Science in a Populist Age*; Chapter 5, *Communicating Under Pressure*; Chapter 6, *Building Coalitions for Science*; or Appendix D, *Voter Beliefs and Attitudes towards Science*.
+
+## The Gamification of Science {#sec-gamification}
+
+Science is governed through rules, incentives, rankings, thresholds, and procedures. Those devices make collective knowledge production possible, but they also create games. Participants can optimize what the institution scores while evading the substantive purpose of the score. The result is a widening gap between doing excellent work and becoming skilled at the systems that certify, publicize, fund, or attack it.
+
+**Games played inside science:**
+
+- p-hacking, specification searching, and selective reporting;
+- hypothesizing after results are known while presenting the result as confirmatory;
+- venue shopping until a favorable editor or reviewer accepts the work;
+- salami slicing and optimizing publication counts rather than cumulative understanding;
+- obfuscating a weak step or shifting a contestable assumption into a more technical, distributed, or opaque part of the analysis;
+- choosing benchmarks, outcomes, time windows, or comparison sets that flatter the preferred result; and
+- manufacturing the shallow quality signals described in @sec-quality-proxies.
+
+These strategies exploit the difference between the epistemic objective and the institution's observable scoreboard. They can produce work that is formally successful and substantively weak without requiring anyone to fabricate data or state an easily falsified lie.
+
+**Games played against scientists:**
+
+The *fascist tourist* variation in @sec-fascist-tourists treats the accountability environment itself as a competitive game. The objective is not necessarily to refute an opponent's work. It is to discover a sequence of procedural, reputational, financial, or legal moves that makes the opponent costly to employ, publish, fund, defend, or associate with.
+
+Possible moves include complaint shopping across institutions, strategic misconduct allegations, expansive records requests, threats of litigation, demands directed at employers or funders, platform reports, donor pressure, jurisdiction shopping, and the serial repackaging of an allegation for new audiences. Each mechanism may have a legitimate purpose. The game consists of combining them asymmetrically: the attacker selects cheap moves while the target and the target's institution must pay the cost of answering every move.
+
+**Lawfare as a scientific meta-game:**
+
+Lawfare moves the contest from the truth of a claim to the target's ability to survive process. A complaint need not prevail to consume time, money, attention, insurance, legal counsel, institutional goodwill, and emotional capacity. Fragmented actors can coordinate effects without accepting collective responsibility, while every response by the target creates new statements and discrepancies that can become material for the next round.
+
+The central problem is not that lawsuits, complaints, investigations, or records requests are inherently illegitimate. Scientific institutions need all of them in some circumstances. The problem is distinguishing accountability from adversarial process abuse when both use the same formal tools.
+
+**Questions and examples to pursue:**
+
+- What are the scientific equivalents of a game's score, exploit, dominant strategy, and unwritten rule?
+- When does optimization reveal a badly designed institution rather than a uniquely bad actor?
+- What features distinguish a good-faith complaint from a campaign whose real product is cumulative process cost?
+- How should institutions evaluate proportionality, consistency of standards, target selection, escalation, and stopping rules?
+- Can due process protect targets without shielding fraud, misconduct, or genuine abuse?
+- Does AI make these games cheaper by automating anomaly searches, dossiers, complaints, legal drafts, audience testing, and distributed pressure?
+- What institutional designs align winning the game more closely with producing reliable knowledge and correcting real wrongdoing?
+
+**Possible homes:** Chapter 3, *Science in the Age of AI*; Chapter 4, *Building Resilient Institutions*; Chapter 5, *Communicating Under Pressure*; or Chapter 6, *Building Coalitions for Science*.
 
 <!--
 Template for a new idea:
