@@ -42,6 +42,26 @@ Capital hires scientists because it needs knowledge that it cannot produce or in
 - Does this pattern become more common when managers cannot distinguish excellent science from merely legible science?
 - How should institutions prevent arbitrary procedural policing without treating scientific prestige as an exemption from legitimate scrutiny?
 
+### Working Note: Jason Arday, Academic Freedom, and Responsibility After a Death
+
+On August 5, 2026, the University of Cambridge [announced an investigation](https://www.cam.ac.uk/notices/news/statement-about-professor-arday) into new information about Professor Jason Arday's qualifications and honorary appointments, alongside ongoing complaints of research misconduct. Arday resigned and was found dead on August 14 after weeks of intense coverage. Police said the death was not believed to be suspicious. The aftermath produced competing demands for scrutiny of Cambridge's hiring and oversight, the allegations against Arday, and the scale and racial character of the media campaign directed at him. An Associated Press account reported that a communications scholar counted 289 press stories about Arday in 22 days and described calls for a public inquiry into the coverage ([Associated Press](https://apnews.com/article/ec1d14a8e40a74e16ab5a0363f7dc623)).
+
+The causal relationship between the scrutiny and Arday's death has not been established. The working argument is instead about responsibility after a fatal outcome. In any other serious domain, a death following an organization's activities would trigger examination of the entire chain of events even before anyone knew whether legal or causal responsibility existed. Academic and para-academic actors should not demand an exemption from that elementary duty to investigate consequences.
+
+> Academic freedom was supposed to mean: “We did excellent work and came to an unpopular conclusion.”
+
+Academic freedom protects inquiry and unpopular conclusions; it is not immunity from examining methods, proportionality, targeting, or consequences. Legitimate questions about credentials or plagiarism do not by themselves justify an unlimited public campaign. Conversely, the existence of an abusive campaign would not resolve the underlying academic questions. Both the allegations and the machinery of the takedown remain proper subjects of investigation.
+
+The *fascist tourist* edge case is a person who claims the protections and authority of academic work while rejecting its responsibilities. The work can be shifted into newsletters, social media, podcasts, or fragmented side audiences; broken into individually deniable pieces; and aimed iteratively at members of a disfavored subgroup until an especially vulnerable target appears. This resembles hill climbing through targets rather than inquiry organized around a proportionate scientific question.
+
+**Questions to preserve from the thread:**
+
+- When does scrutiny of an individual become racial opposition research rather than a proportionate investigation of conduct?
+- Who is responsible for assessing cumulative harm when a campaign is distributed across many formally independent participants?
+- Can actors invoke academic freedom for para-academic opposition research while disclaiming academic standards of care, relevance, and accountability?
+- What kind of inquiry should follow a death without presuming either causation or innocence on the part of the surrounding institutions and media ecosystem?
+- How should legitimate investigation continue without turning one allegedly undeserving Black academic at a time into a public proxy battle over race and institutional merit?
+
 **Possible homes:** Chapter 4, *Building Resilient Institutions*; Chapter 5, *Communicating Under Pressure*; or Appendix B, *People and Fields*.
 
 ## Rent Collection, Human Subjects, and the Last Fields to Automate
